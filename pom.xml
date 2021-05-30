@@ -305,12 +305,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.50.131:8081/repository/MyNex5/</url>
+            <url>http://192.168.50.131:8081/repository/MyNex5</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.50.131:8081/repository/MyNex7/</url>
+            <url>http://192.168.50.131:8081/repository/MyNex7</url>
         </snapshotRepository>
     </distributionManagement>
 </project>
